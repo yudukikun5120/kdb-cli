@@ -1,6 +1,6 @@
 # kdb-cli
 
-The kdb-cli is a command line interface for the kdb.
+The kdb-cli is a command line interface for the KdB.
 
 ## Installation
 
