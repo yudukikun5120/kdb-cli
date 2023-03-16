@@ -1,0 +1,23 @@
+{
+  "name": "kdb-cli",
+  "version": "1.0.0",
+  "description": "Command Line Interface for kdB",
+  "main": "index.js",
+  "author": "Arai Yuzuki",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^10.0.0",
+    "inquirer": "8.0.1",
+    "picocolors": "^1.0.0"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.3"
+  },
+  "bin": {
+    "kdb": "index.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "start": "node index.js"
+  }
+}
