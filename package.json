@@ -7,7 +7,7 @@
   "license": "MIT",
   "dependencies": {
     "commander": "^10.0.0",
-    "inquirer": "8.0.1",
+    "inquirer": "14.2.3",
     "picocolors": "^1.1.1"
   },
   "devDependencies": {
